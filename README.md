@@ -1,3 +1,3 @@
-# Data_Course_RAYMONDThis README file contains information about my uploaded assignments
+# Data_Course_RAYMOND
 This README file contains information about my uploaded assignments
 
